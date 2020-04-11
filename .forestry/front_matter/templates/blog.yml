@@ -1,4 +1,11 @@
 ---
 label: Blog
 hide_body: true
-fields: []
+fields:
+- name: iframe
+  type: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  label: iframe
