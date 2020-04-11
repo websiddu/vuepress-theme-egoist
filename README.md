@@ -1,3 +1,6 @@
++++
+
++++
 # vuepress-theme-egoist
 
 > A blog theme for [@EGOIST](https://github.com/egoist) and a mirror of [egoist/blog](https://github.com/egoist/blog), but powered by VuePress.
@@ -6,17 +9,17 @@
 
 ## Features
 
-- Original flavor of [EGOIST's blog](https://egoist.moe/)
-- [Tags](https://egoist.ulivz.com/tag/)
-- [Categories](https://egoist.ulivz.com/category/)
-- Pagination
-- Search
+* Original flavor of [EGOIST's blog](https://egoist.moe/)
+* [Tags](https://egoist.ulivz.com/tag/)
+* [Categories](https://egoist.ulivz.com/category/)
+* Pagination
+* Search
 
 This theme deeply integrated with:
 
-- [@vuepress/plugin-blog](https://vuepress.vuejs.org/plugin/official/plugin-blog.html)
-- [@vuepress/plugin-pagination](https://vuepress.vuejs.org/plugin/official/plugin-pagination.html)
-- [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html)
+* [@vuepress/plugin-blog](https://vuepress.vuejs.org/plugin/official/plugin-blog.html)
+* [@vuepress/plugin-pagination](https://vuepress.vuejs.org/plugin/official/plugin-pagination.html)
+* [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html)
 
 Check out the showcase [https://egoist.ulivz.com/](https://egoist.ulivz.com/) and [usage example](example).
 
@@ -35,6 +38,7 @@ Authored and maintained by ulivz with help from contributors ([list](https://git
 
 > [github.com/ulivz](https://github.com/ulivz) · GitHub [@ulivz](https://github.com/ULIVZ) · Twitter [@_ulivz](https://twitter.com/_ulivz)
 
-<br>
+     Testing 
+     Well lets see if this works 
 
 2018 © [ULIVZ](https://github.com/ULIVZ)
